@@ -2,4 +2,4 @@
 Pytorch
 1. ALexNet using pretrained Model
 2. ResNet From Scratch
-3. VGGNet
+3. VGGNet From Scratch 
